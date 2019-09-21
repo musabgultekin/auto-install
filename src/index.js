@@ -68,7 +68,7 @@ main = () => {
     }
 
     helpers.cleanup();
-    if (!watchersInitialized) initializeWatchers();
+    // if (!watchersInitialized) initializeWatchers();
 };
 
 /* Turn the key */
